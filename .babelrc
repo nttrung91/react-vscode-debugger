@@ -1,0 +1,15 @@
+{
+  /* Default preset from babel-preset-env */
+  "presets": ["env"],
+  "env": {
+    /*
+      Debug configuration for vscode to
+      have breakpoint works properfly
+     */
+    "debug": {
+      "sourceMaps": true,
+      "retainLines": true
+    }
+  },
+  "plugins": ["transform-object-rest-spread"]
+}

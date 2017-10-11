@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "HookyQR.beautify",
+    "dbaeumer.vscode-eslint",
+    "wix.vscode-import-cost",
+    "zhuangtongfa.material-theme",
+    "msjsdiag.debugger-for-chrome",
+    "xabikos.ReactSnippets",
+    "esbenp.prettier-vscode",
+    "ms-vscode.sublime-keybindings",
+    "christian-kohler.npm-intellisense"
+  ]
+}
